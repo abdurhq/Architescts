@@ -1,0 +1,28 @@
+
+.two{
+    display: flex;
+    gap: 50px;
+    font-size: 18px;
+
+}
+.one{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.brand{
+    text-align: center;
+}
+.layout{
+  background-color:#FF900E; 
+  border-radius: 10px; 
+  color: #FFFFFF;
+  width: 100px;
+  height: 30px;
+}
+.banner{
+    width: 1440px;
+    height: 700px;
+    margin: 20px;
+}
